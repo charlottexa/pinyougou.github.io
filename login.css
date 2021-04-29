@@ -1,0 +1,91 @@
+.w {
+    width: 1200px;
+    margin: auto;
+}
+.header {
+    height: 82px;
+    border-bottom: 2px solid #b1191a;
+}
+.logo {
+    padding-top: 15px;
+}
+.loginarea {
+    height: 420px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+.loginarea h3 {
+    height: 40px;
+    border-bottom: 1px solid #ccc;
+    background-color: #ececec;
+    padding: 0 10px;
+    font-weight: 400;
+    line-height: 40px;
+    font-size: 18px;
+}
+.loginarea h3 em {
+    float: right;
+    font-size: 14px;
+}
+.loginarea a {
+    color: #c81623;
+}
+.login_form {
+    width: 600px;
+    height: 400px;
+    margin: 40px auto 0;
+}
+.login_form li {
+    margin-bottom: 15px;
+}
+.login_form label {
+    display: inline-block;
+    width: 100px;
+    height: 36px;
+    line-height: 36px;
+    text-align: right;
+}
+.inp {
+    width: 238px;
+    height: 34px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+}
+
+.sr_error .pwd_error {
+    margin-left: 10px;
+}
+
+.pwd_icon,
+.shuru_icon {
+    width: 20px;
+    height: 20px;
+    background: no-repeat;
+    vertical-align: middle;
+    margin-top: -2px;
+}
+
+.sr_success .pwd_success {
+    margin-left: 10px;
+}
+
+.over {
+    width: 200px;
+    height: 34px;
+    background-color: #c81623;
+    margin: 30px 0 0 130px;
+    border: none;
+    color: #fff;
+    font-size: 14px;
+}
+.footer {
+    height: 120px;
+    text-align: center;
+}
+.links {
+    margin-top: 20px;
+    height: 30px;
+}
+.copyright {
+    line-height: 20px;
+}
